@@ -1,4 +1,9 @@
 # SenNetRamanOmics
+
+<p align="center">
+  <img src="media/overview.jpg" alt="Overview Image" width="100%" height="100%">
+</p>
+
  Codes for the data analysis in the SenNetRamanOmics paper. Major content includes:
 
  1. scRNA-seq data preprocessing and analysis
